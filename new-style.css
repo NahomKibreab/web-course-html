@@ -1,0 +1,28 @@
+#my-id {
+  color: red;
+  font-size: 100px;
+}
+
+.my-class {
+  color: rgb(22, 4, 75);
+  font-size: large;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  color: blue;
+  text-align: right;
+}
+
+p {
+  border: 10px solid red;
+  padding: 30px;
+  margin: 100px;
+  background: rgb(90, 90, 239);
+  /* width: 500px; */
+}
+
+div {
+  background: rgb(104, 93, 93);
+  padding: 5px;
+}
